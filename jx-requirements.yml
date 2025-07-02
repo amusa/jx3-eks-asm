@@ -5,7 +5,7 @@ spec:
     enabled: false
     schedule: ""
   cluster:
-    devEnvApprovers:
+    devEnvApprovers: 
     - todo
     environmentGitOwner: todo
     gitKind: github
